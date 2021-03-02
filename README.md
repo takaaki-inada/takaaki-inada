@@ -1,12 +1,20 @@
 ## Hi there, I'm Takaaki Inada. 👋
 
-- :rocket: I’m currently working as a MLOps engineer in Tokyo.
-- :congratulations: I'm glad to be a reviewer to ゼロから作るDeep Learning 3.
-<img src="images/zerod3.jpg" width="300px">
+<img align="right" src="images/zerod3.jpg" width="300px" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working as a MLOps engineer in Tokyo.</li>
+<li>🧐 I'm an AWS solution architect, SRE Engineer, Kaggle Expert.</li>
+<li>🎉 I'm glad to be a reviewer to ゼロから作るDeep Learning 3.</li>
+</ul>
+<br/>
+<br/>
 
 ## Get in touch :coffee:
 - Kaggle - [takaaki314](https://www.kaggle.com/takaaki314)
 - Twitter - [@dev_inada](https://twitter.com/dev_inada)
+<br/>
+<br/>
 
 ## Recent Blog Posts :book:
 <!--[START github.com/ikawaha/feedsnippet]--><!--[2021-03-02T01:27:38Z]-->
