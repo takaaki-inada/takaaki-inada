@@ -1,0 +1,8 @@
+- urls:
+    - https://qiita.com/takaaki_inada/feed
+  template: |-
+      {{range . -}}
+        * ![](./images/qiita.png) [{{ .Title }}]({{ .Link }})
+      {{ end }}
+  limit: 5
+  sort_by_published: true
