@@ -17,6 +17,10 @@
 <br/>
 
 ## Recent Blog Posts :book:
+### Hatena
+* <img src="./images/hatena.png" width=18> [クラウド上でアルゴリズムを素早くセキュアに顧客に提供するためのインフラ基盤 (AWS Transit Gatewayを活用した構築パターン)](https://tech.acesinc.co.jp/entry/2021/10/18/144813)
+
+### Qiita
 <!--[START github.com/ikawaha/feedsnippet]--><!--[2021-09-18T04:02:09Z]-->
 * ![](./images/qiita.png) [Github Actions IAM Userが作成不要に - OIDC federated IAM RoleのCDK/Terraform書き方と使ってみてわかったこと](https://qiita.com/takaaki_inada/items/2028328231d1085fa561)
 * ![](./images/qiita.png) [GitHub Actionsのself-hosted runnersをVPSで動かしてCI / CDパイプラインを作る (今どきVPS構築2020年版)](https://qiita.com/takaaki_inada/items/f44dc0876ac77a0c1126)
