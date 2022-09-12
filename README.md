@@ -22,7 +22,7 @@
 * <img src="./images/hatena.png" width=18> [クラウド上でアルゴリズムを素早くセキュアに顧客に提供するためのインフラ基盤 (AWS Transit Gatewayを活用した構築パターン)](https://tech.acesinc.co.jp/entry/2021/10/18/144813)
 
 ### Qiita
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-09-12T22:38:56Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-09-12T22:41:59Z]-->
 * ![](./images/qiita.png) [絵心ゼロのおっさんがAI(stable diffusion)使って気付けば四コマ漫画を書いてしまった件](https://qiita.com/takaaki_inada/items/a9962701640e8e230ffa)
 * ![](./images/qiita.png) [Github Actions IAM Userが作成不要に - OIDC federated IAM RoleのCDK/Terraform書き方と使ってみてわかったこと](https://qiita.com/takaaki_inada/items/2028328231d1085fa561)
 * ![](./images/qiita.png) [GitHub Actionsのself-hosted runnersをVPSで動かしてCI / CDパイプラインを作る (今どきVPS構築2020年版)](https://qiita.com/takaaki_inada/items/f44dc0876ac77a0c1126)
