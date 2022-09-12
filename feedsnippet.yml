@@ -4,5 +4,5 @@
       {{range . -}}
         * ![](./images/qiita.png) [{{ .Title }}]({{ .Link }})
       {{ end }}
-  limit: 5
+  limit: 10
   sort_by_published: true
