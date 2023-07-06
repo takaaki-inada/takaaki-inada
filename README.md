@@ -28,6 +28,7 @@
 * ![](./images/qiita.png) [Stable DiffusionのClassifier Free Guidance(CFG)への理解を深める](https://qiita.com/takaaki_inada/items/7315eb5ee1e2a30469ff)
 * ![](./images/qiita.png) [AIを使って2Dアニメーション作ってみた（やったことまとめ）](https://qiita.com/takaaki_inada/items/11880eaac9d9fee954a9)
 <!--[END github.com/ikawaha/feedsnippet]-->
+* ![](./images/qiita.png) [「kaggleで勝つデータ分析の技術」を実践してKaggleで勝つ - Kaggle M5 Forecasting Accuracy 59th (of 5558) 解法まとめ - Qiita](https://qiita.com/takaaki_inada/items/3f822737cf306a7bbce9)
 
 ### Slideshare
 [![thumbnail](https://image.slidesharecdn.com/jawsuglt20220520-220519201801-2ae62c2d/85/amazonmanagedgrafanaaws-1-320.jpg)](https://www.slideshare.net/takaakiinada/amazonmanagedgrafanaaws-251816665)
