@@ -22,11 +22,11 @@
 * <img src="./images/hatena.png" width=18> [クラウド上でアルゴリズムを素早くセキュアに顧客に提供するためのインフラ基盤 (AWS Transit Gatewayを活用した構築パターン)](https://tech.acesinc.co.jp/entry/2021/10/18/144813)
 
 ### Qiita
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-09-12T22:41:59Z]-->
-* ![](./images/qiita.png) [絵心ゼロのおっさんがAI(stable diffusion)使って気付けば四コマ漫画を書いてしまった件](https://qiita.com/takaaki_inada/items/a9962701640e8e230ffa)
-* ![](./images/qiita.png) [Github Actions IAM Userが作成不要に - OIDC federated IAM RoleのCDK/Terraform書き方と使ってみてわかったこと](https://qiita.com/takaaki_inada/items/2028328231d1085fa561)
-* ![](./images/qiita.png) [GitHub Actionsのself-hosted runnersをVPSで動かしてCI / CDパイプラインを作る (今どきVPS構築2020年版)](https://qiita.com/takaaki_inada/items/f44dc0876ac77a0c1126)
-* ![](./images/qiita.png) [「kaggleで勝つデータ分析の技術」を実践してKaggleで勝つ - Kaggle M5 Forecasting Accuracy 59th (of 5558) 解法まとめ](https://qiita.com/takaaki_inada/items/3f822737cf306a7bbce9)
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-07-06T23:16:03Z]-->
+* ![](./images/qiita.png) [ローカルで動く大規模言語モデル(Rinna-3.6B)を使ってあなただけのAIパートナーを作ろう](https://qiita.com/takaaki_inada/items/9a9c07e85e46ec0e872e)
+* ![](./images/qiita.png) [ControlNetを使って構図(背景と人物ポーズ)を与えてAIに絵を描かせる](https://qiita.com/takaaki_inada/items/6c15db591621951d10ea)
+* ![](./images/qiita.png) [Stable DiffusionのClassifier Free Guidance(CFG)への理解を深める](https://qiita.com/takaaki_inada/items/7315eb5ee1e2a30469ff)
+* ![](./images/qiita.png) [AIを使って2Dアニメーション作ってみた（やったことまとめ）](https://qiita.com/takaaki_inada/items/11880eaac9d9fee954a9)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
 ### Slideshare
