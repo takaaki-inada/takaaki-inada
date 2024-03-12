@@ -22,11 +22,11 @@
 * <img src="./images/hatena.png" width=18> [クラウド上でアルゴリズムを素早くセキュアに顧客に提供するためのインフラ基盤 (AWS Transit Gatewayを活用した構築パターン)](https://tech.acesinc.co.jp/entry/2021/10/18/144813)
 
 ### Qiita
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-07-06T23:16:03Z]-->
-* ![](./images/qiita.png) [ローカルで動く大規模言語モデル(Rinna-3.6B)を使ってあなただけのAIパートナーを作ろう](https://qiita.com/takaaki_inada/items/9a9c07e85e46ec0e872e)
-* ![](./images/qiita.png) [ControlNetを使って構図(背景と人物ポーズ)を与えてAIに絵を描かせる](https://qiita.com/takaaki_inada/items/6c15db591621951d10ea)
-* ![](./images/qiita.png) [Stable DiffusionのClassifier Free Guidance(CFG)への理解を深める](https://qiita.com/takaaki_inada/items/7315eb5ee1e2a30469ff)
-* ![](./images/qiita.png) [AIを使って2Dアニメーション作ってみた（やったことまとめ）](https://qiita.com/takaaki_inada/items/11880eaac9d9fee954a9)
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-03-12T14:14:35Z]-->
+* ![](./images/qiita.png) [karakuri-lm-70b-chatをOpenAI互換のローカルサーバとして動かしてみた](https://qiita.com/takaaki_inada/items/3a22b982a3541e6f214c)
+* ![](./images/qiita.png) [GPT-4Vを使ってゲーム実況させる](https://qiita.com/takaaki_inada/items/3589ff88914f01fe8414)
+* ![](./images/qiita.png) [Youri 7BをFastChatでChatGPT互換APIサーバとして動かして遊ぶ](https://qiita.com/takaaki_inada/items/fcb63da369b5bfd8a3cf)
+* ![](./images/qiita.png) [local LLMをChatGPT API互換サーバとして使う方法まとめ(2023/10版)](https://qiita.com/takaaki_inada/items/a918ca6984e832bc9741)
 <!--[END github.com/ikawaha/feedsnippet]-->
 * ![](./images/qiita.png) [「kaggleで勝つデータ分析の技術」を実践してKaggleで勝つ - Kaggle M5 Forecasting Accuracy 59th (of 5558) 解法まとめ - Qiita](https://qiita.com/takaaki_inada/items/3f822737cf306a7bbce9)
 
