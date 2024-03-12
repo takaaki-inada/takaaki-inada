@@ -28,6 +28,7 @@
 * ![](./images/qiita.png) [Youri 7BをFastChatでChatGPT互換APIサーバとして動かして遊ぶ](https://qiita.com/takaaki_inada/items/fcb63da369b5bfd8a3cf)
 * ![](./images/qiita.png) [local LLMをChatGPT API互換サーバとして使う方法まとめ(2023/10版)](https://qiita.com/takaaki_inada/items/a918ca6984e832bc9741)
 <!--[END github.com/ikawaha/feedsnippet]-->
+* ![](./images/qiita.png) [ローカルで動く大規模言語モデル(Rinna-3.6B)を使ってあなただけのAIパートナーを作ろう](https://qiita.com/takaaki_inada/items/9a9c07e85e46ec0e872e)
 * ![](./images/qiita.png) [「kaggleで勝つデータ分析の技術」を実践してKaggleで勝つ - Kaggle M5 Forecasting Accuracy 59th (of 5558) 解法まとめ - Qiita](https://qiita.com/takaaki_inada/items/3f822737cf306a7bbce9)
 
 ### Slideshare
